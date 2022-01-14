@@ -1,5 +1,5 @@
 # SalesTrackingApp
-#### Technical exercise on developing sales tracking application that handles salesperson's commissions and incentives. Window Forms application with full-stack foundation.
+#### Technical exercise for Profisee on developing sales tracking application that handles salesperson's commissions and incentives. Window Forms application with full-stack foundation.
 In database folder, execute query for sample tables and datas for testing;(Encouraged to run 1 and 2 line seperately). 
 
 ## Data layer
